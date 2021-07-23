@@ -1,4 +1,4 @@
-# TCVoid
+# TCPVoid
 
 A simple TCP server for testing purposes. Supports HTTP, TCP Echo and TCP Void.
 
